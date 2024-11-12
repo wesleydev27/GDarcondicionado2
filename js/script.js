@@ -12,6 +12,7 @@ function toggleMenu() {
 
 }
 
+// CAROUSEL DE TRABALHOS
 let currentIndex = 0;
 let autoSlideInterval;
 
